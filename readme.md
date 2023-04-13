@@ -1,4 +1,4 @@
-# <img src="/images/Logo.png" width="45" height="45" style="float: left; padding-right: 10px;">ImmersionProgress: Quantify your Progress
+# <img src="/images/Logo.png" width="45" height="45" style="float: left; padding-right: 10px;">ImmersionProgress: Quantify your immersion
 
 ## What is ImmersionProgress?
 
